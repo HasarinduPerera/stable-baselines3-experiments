@@ -1,1 +1,1 @@
-# StableBaselines-TestRL
+# stable-baselines3 - experiments 
